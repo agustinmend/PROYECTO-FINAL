@@ -10,3 +10,5 @@ def background_music():
     music_list: dict = {
         1 : ""
     }
+
+print("sounds.py working perfectly")
